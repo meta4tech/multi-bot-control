@@ -1,6 +1,11 @@
 {
-  "cmd": "",
-  "number": "",
-  "time": 0,
-  "reportedBy": []
+  "cmd": "crash",
+  "number": "6288704626501@s.whatsapp.net",
+  "time": 1750505168145,
+  "reportedBy": [
+    {
+      "name": "XíMeoN.bot",
+      "jid": "6285696562367:54@s.whatsapp.net"
+    }
+  ]
 }
